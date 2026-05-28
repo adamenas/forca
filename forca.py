@@ -1,3 +1,5 @@
+# atualização de commit
+
 import random
 
 def forca(palavra):
