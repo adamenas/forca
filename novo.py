@@ -1,4 +1,3 @@
 # nada pra ver aqui
 print('oloko, bixo!')
-
-aa
+print(2*2)
